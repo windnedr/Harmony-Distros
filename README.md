@@ -9,6 +9,7 @@
 <a href="./md/symphony.md">
 <img src="./assets/Symphony banner.svg">
 </a>
+<br>
 <a href="./md/harmii.md">
 <img src="./assets/harmii.svg">
 </a>
