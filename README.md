@@ -2,7 +2,7 @@
 > [!NOTE]
 > To add your own distro here, start a pull request
 
-<a href="./README.md">
+<a href="./md/harmony.md">
 <img src="assets/HarmonyBanner.svg">
 </a>
 <br>
