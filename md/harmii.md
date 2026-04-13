@@ -5,7 +5,7 @@ This client takes a lot of inspiration after the Wii U.
 ## Features
 Makes a random Mii noise as a notification sound.
 
-![](../assets/harmiiScreens/messaging.webm)
+[Video](../assets/harmiiScreens/messaging.webm)
 
 ## Style
 
